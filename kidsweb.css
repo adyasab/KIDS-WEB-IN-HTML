@@ -1,0 +1,189 @@
+@ charset="UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+#wrap{
+	height:1000px;
+	width:1000px;
+	margin:auto;
+}
+
+#header{
+	background-image:grey;
+	height:90px;
+}
+
+#header img{
+	height:90px;
+	width:300px;
+}
+
+
+nav{
+	margin-top:0px;
+	padding:1px;
+	background-color:yellow;
+}
+
+
+nav ul{text-align:center;}
+	nav ul li{
+	display:inline;	
+	padding:0 15px;
+				
+}
+
+#main{
+	width:980px;
+	height:350px;
+	margin:auto;
+	margin-top:10px;
+	padding:1%
+}
+
+#first{
+	background-color:;
+	height:300px;
+	width:310px;
+	float:left;
+	margin:3px;
+}
+
+#second{
+	background-color:;
+	height:300px;
+	width:310px;
+	float:left;
+	margin:3px;
+}
+
+#third{
+	background-color:;
+	height:300px;
+	width:310px;
+	float:left;
+	margin:3px;
+}
+
+#title{
+	color:orange;
+	font-size:18px;
+	font-weight:bold;
+	padding:1px;
+}
+
+#content{
+	text-align:justify;
+	padding:1px;
+}
+
+#mainnews{
+	width:1000px;
+	height:150px;
+	margin:auto;
+	margin-top:10px;
+	
+}
+
+#mainnews img{
+	width:250px;
+	height:140px;
+	float:left;
+	padding-top:1%;
+	padding-bottom:1%;
+}
+
+#mainnews1{
+	width:1000px;
+	height:150px;
+	margin:auto;
+	margin-top:10px;
+}
+
+
+#mainnews1 img{
+	width:250px;
+	height:140px;
+	float:right;
+	padding:1%;
+	
+}
+
+
+
+#title1{
+	color:orange;
+	font-size:18px;
+	font-weight:bold;
+	padding:1px;
+}
+
+#footer{
+	
+	width:950px;
+	height:80px;
+	margin:auto;
+	margin-top:15px;
+	margin-bottom:15px;
+	padding:2%;
+	background-color:yellow;
+	
+}
+
+#footer img{
+	height:80px;
+	width:200px;
+	float:left;
+}
+
+#footer h3{
+	color:red;
+}
+
+div.social{
+	
+	float:right;
+	margin-top:0px;
+	padding:1%;
+	
+	
+}
+
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+
+
